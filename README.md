@@ -1,7 +1,7 @@
 ### 🏸 Hi, My name is Tran Bao Tin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. I'm a student in Data Science major.
   - 🏸 I have experiences with ```C++``` ```Python``` ```SQL```.
   - 🏸 I’m currently learning **Data Science** at **University of Sciene (US) - Ho Chi Minh National University**
-  - 🏸 I have basic knowledge in Object-Oriented Programming ```Machine learning```.
+  - 🏸 I have basic knowledge in ```Object-Oriented Programming``` ```Database``` ```Machine learning```.
 
 ### 📫 Contact me via:
   [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/tintran2704/) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:tranbaotin2704@gmail.com)
