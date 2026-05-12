@@ -48,18 +48,10 @@ I am a results-driven Data Professional with 4+ years of experience specializing
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tin-tran-2704) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:tranbaotin2704@gmail.com)
 
 ### :zap: GitHub Stats
-<table align="center">
-  <tr>
-    <td>
-      <img src='https://github-readme-stats.vercel.app/api?username=TinTran2704&show_icons=true&theme=tokyonight&hide=issues&count_private=true'>
-    </td>
-    <td>
-      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=TinTran2704&layout=compact&theme=tokyonight&title_color=71A4FC'>    
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img width="100%" src='https://activity-graph.herokuapp.com/graph?username=TinTran2704&bg_color=1A1B27&color=71A4FC&line=3ABCAD&point=BE91F2&area=true'>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TinTran2704&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinTran2704&layout=compact&theme=tokyonight&title_color=71A4FC" />
+</p>
+<p align="center">
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=TinTran2704&bg_color=1A1B27&color=71A4FC&line=3ABCAD&point=BE91F2&area=true&hide_border=true" />
+</p>
