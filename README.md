@@ -49,9 +49,10 @@ I am a results-driven Data Professional with 4+ years of experience specializing
 
 ### :zap: GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TinTran2704&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinTran2704&layout=compact&theme=tokyonight&title_color=71A4FC" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TinTran2704&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinTran2704&layout=compact&theme=tokyonight&hide_border=true" width="43%" />
 </p>
+
 <p align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=TinTran2704&bg_color=1A1B27&color=71A4FC&line=3ABCAD&point=BE91F2&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TinTran2704&theme=tokyo-night&area=true&hide_border=true" width="92%" />
 </p>
